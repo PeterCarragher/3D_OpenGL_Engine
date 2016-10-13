@@ -1,0 +1,8 @@
+Debug/**/*
+Release/**/*
+GraphicsEngine/Debug/**/*
+GraphicsEngine/Release/**/*
+*.obj
+*.log
+*.tlog
+*~

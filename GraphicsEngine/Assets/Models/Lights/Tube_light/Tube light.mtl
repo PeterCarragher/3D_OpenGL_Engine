@@ -1,0 +1,31 @@
+# Max2Mtl Version 4.0 Mar 10th, 2001
+#
+# Multi/Sub Material__35 (2) to come 
+#
+newmtl light
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  0.7
+Ns  3.4
+illum 2
+#
+newmtl light_pash
+Ka  1.0 1.0 1.0
+Kd  0.9 0.8 0.8
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.4
+illum 2
+#
+# Multi/Sub Material__35 done 
+#
+newmtl baki_au
+Ka  1.0 1.0 1.0
+Kd  1.0 1.0 1.0
+Ks  0.9 0.9 0.9
+d  1.0
+Ns  6.2
+illum 2
+#
+# EOF
