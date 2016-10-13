@@ -6,7 +6,10 @@ FOR DEMO:
   To look around, use the mouse. 
   To turn the torch on/off, press 'F'.
 
-Libraries:
+REQUIREMENTS:
+  Visual Studio 2015 (will add CMakeList for generating project files and makefiles on Unix)
+
+Libraries (all binaries built for 32x packaged with repo in Dependencies folder):
   GLEW   -> extension wrangler for OpenGL.  
   GLFW   -> utilities library.  
   SOIL   -> image loader. 
@@ -24,4 +27,5 @@ Future Features:
   Implement physics engine. 
   Use cubemaps for skyboxs. 
   Add anti-aliasing for imported models.  
-  Add advanced features to the shader - bump/normal maps, ambient occlusion etc.  
+  Add advanced features to the shader - bump/normal maps, ambient occlusion etc. 
+  Add CMakeList for cross platform support 
