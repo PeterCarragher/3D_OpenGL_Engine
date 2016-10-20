@@ -23,7 +23,7 @@ Features:
   3 lighting casters implemented (directional, spotlight, point light). 
   
 Future Features:  
-  Optimise Model loader and matrix operations with CUDA.  
+  Implement deferred renderer to use OpenCL on buffers for post processing on G & Z buffers 
   Implement physics engine. 
   Use cubemaps for skyboxs. 
   Add anti-aliasing for imported models.  
